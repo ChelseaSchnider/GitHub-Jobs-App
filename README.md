@@ -45,6 +45,7 @@ filtered down to (a number will appear here)
 Open a new terminal cd into api folder -> type "node index.js"
 The following should appear 
     "listening on port 5000"
+Numbers will start appearing under this, it is just the number of jobs found
 
 Open the Ubuntu terminal again, following should still be there 127.0.0.1:6379> -> type "get github"
 Lots of words should appear - these are all the jobs! Your app works!
